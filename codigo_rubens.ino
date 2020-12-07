@@ -45,7 +45,7 @@ void setup() {
   delay(1500);
   lcd.clear();
   lcd.home();
-  lcd.print("Joao M. Paiva &");
+  lcd.print("Joao Paiva &");
   lcd.setCursor(0,1);
   lcd.print("Luan Crozatti");
   delay(1500);
